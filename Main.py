@@ -5,6 +5,7 @@ import KMeans as KM
 from Tkinter import *
 
 GUI = Tk()
+GUI.title("Advance Database Mini Project")
 Frame1 = Frame(GUI) #Contains Name Of Project
 Frame2 = Frame(GUI) #Contains Yearly Checkbox
 Frame3 = Frame(GUI) #Contains Monthly(2013 2014) Checkboxes
